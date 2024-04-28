@@ -1,3 +1,7 @@
+Sejam bem vindos(as) ao grupo Code Crafters Conduzido pelos Devs Marcone e Rafael.
+A nossa ideia é de alguma forma orienta-los a seguir na carreira de programação ensinando alguns conceitos e compartilhando conteudo. 😉
+
+🔗 links:
 
 ## Livros
 
